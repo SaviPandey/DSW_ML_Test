@@ -1,4 +1,4 @@
-# Loan Default Prediction for Data Science Wizards Internship
+# Loan Default Prediction Machine Learning Model
 
 ## Project Overview
 This repository contains the solution to the loan default prediction problem provided by **Data Science Wizards (DSW)** as part of their campus hiring process. The project focuses on developing a classification model to predict loan repayment behavior, specifically identifying potential defaulters and non-defaulters. This helps enhance risk assessment and improve the loan approval process for a trusted Non-Banking Financial Company (NBFC).
