@@ -74,16 +74,12 @@ The repository includes the following components:
    ```
 
 ## Results
-- The final model chosen was [Model Name].
-- Achieved an accuracy of **[value]** and an F1 score of **[value]** on the test dataset.
+- The final model chosen was Logistic Regression and Random Forest.
+- Achieved an accuracy of **76%** and an F1 score of **77%** on the test dataset.
 - Detailed evaluation metrics can be found in `model_selection.ipynb`.
 
 ## Author
-- **[Your Full Name]**
+- **SAVINAY PANDEY**
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to explore and provide feedback!
